@@ -1,0 +1,9 @@
+Timestep 4 - Total Reward: 2328.0 - Total Custom Reward: 26523.0
+total_coin_reward: 0
+total_x_offset_reward: 4489
+total_y_offset_reward: 2820
+total_monster_reward: 7000
+total_man_reward: 0
+total_flag_reward: 0
+total_pipe_reward: 4920
+total_pipe_reward2: 4966
